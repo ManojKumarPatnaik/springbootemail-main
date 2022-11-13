@@ -1,0 +1,13 @@
+<html>
+<head></head>
+<body>
+
+    <p>Dear ${watchers},${doctor}</p>
+
+    <p>Emergency Heart Rate alert !!!</b></p>
+    <B>${firstName} Condition is serious</B>
+
+    <p>Thanks</p>
+
+</body>
+</html>
